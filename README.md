@@ -1,2 +1,2 @@
 # login-pages
-https://nabilalshahari.github.io/login-page/
+https://nabilalshahari.github.io/login-pages/
