@@ -1,2 +1,2 @@
-# index.html
-https://nabilalshahari.github.io/index.html/
+# index
+https://nabilalshahari.github.io/index/
